@@ -1,0 +1,2 @@
+# alprUsingOpenCV
+ALPR using OpenCV
