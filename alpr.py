@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[26]:
-
+# Changes made.
 
 import cv2
 from matplotlib import pyplot as plt
